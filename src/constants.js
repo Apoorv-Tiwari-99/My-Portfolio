@@ -20,7 +20,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
-import socketLogo from './assets/tech_logo/Socket.png';
+import socketLogo from './assets/tech_logo/socket.png';
 import mcLogo from "./assets/tech_logo/mc.png";
 
 import reactnativeLogo from './assets/tech_logo/reactnativeLogo.png';
